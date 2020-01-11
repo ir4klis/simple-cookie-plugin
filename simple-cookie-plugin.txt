@@ -1,0 +1,13 @@
+simple-cookie-plugin/
+├── cookie.php
+├── css
+│   └── main.css
+├── index.php
+├── js
+│   └── main.js
+├── languages
+│   └── simplecookie.po
+├── LICENSE
+└── README.md
+
+3 directories, 7 files
